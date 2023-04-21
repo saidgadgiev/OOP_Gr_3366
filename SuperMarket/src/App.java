@@ -1,6 +1,7 @@
 import Classes.Market;
 import Classes.OrdinaryClient;
 import Classes.SpecialClient;
+import Classes.TaxService;
 import Interfaces.iActorBehaviour;
 
 public class App {
@@ -18,10 +19,13 @@ public class App {
        iActorBehaviour item1 = new OrdinaryClient("Boris");
        iActorBehaviour item2 = new SpecialClient("Fedor", 1101);
        iActorBehaviour item3 = new OrdinaryClient("Dasha");
+       iActorBehaviour item4 = new TaxService();
+       
 
        market.acceptToMarket(item1);
        market.acceptToMarket(item2);
        market.acceptToMarket(item3);
+       market.acceptToMarket(item4);
        market.update();
     }
 }
