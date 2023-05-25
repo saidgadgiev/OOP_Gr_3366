@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GenericInheriance/GenericInheriance.iml" filepath="$PROJECT_DIR$/GenericInheriance/GenericInheriance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/OOP_Gr_3366.iml" filepath="$PROJECT_DIR$/.idea/OOP_Gr_3366.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudentMVCApp/StudentMVCApp.iml" filepath="$PROJECT_DIR$/StudentMVCApp/StudentMVCApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudentServiceApp/StudentServiceApp.iml" filepath="$PROJECT_DIR$/StudentServiceApp/StudentServiceApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SuperMarket/SuperMarket.iml" filepath="$PROJECT_DIR$/SuperMarket/SuperMarket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VendingMachine/VendingMachine.iml" filepath="$PROJECT_DIR$/VendingMachine/VendingMachine.iml" />
+    </modules>
+  </component>
+</project>
